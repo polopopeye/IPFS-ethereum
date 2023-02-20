@@ -11,7 +11,8 @@
           "server/node_modules/",
           "server/dist/",
           "client/node_modules/",
-          "client/public/"
+          "client/public/",
+          "ipfs/node_modules/"
         ]
       },
       {
@@ -26,12 +27,7 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
-    "**/.DS_Store": true,
-    ".vscode/": true,
-    "server/node_modules/": true,
-    "server/dist/": true,
-    "client/node_modules/": true,
-    "client/public/": true
+    "**/.DS_Store": true
   },
-  "hidefiles.selectedProfile": "Default"
+  "hidefiles.selectedProfile": "Show All Files"
 }

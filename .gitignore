@@ -26,3 +26,6 @@ yarn-error.log*
 
 client/node_modules
 server/node_modules
+ipfs/node_modules
+
+node_modules
